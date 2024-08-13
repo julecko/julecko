@@ -7,9 +7,9 @@
 - ⚡ Fun fact: I enjoy C++ (pain)
 ## About me👨‍💻
 - I am self taught programmer from Slovakia
-- I can code in any language which is required for projects
+- I can code in almoust any language which is required for projects
 - I code programs in many different fields, like Backend, Frontend, Data Analysis, WebScrapers and mostly cybersecurity
-- I enjoy almoust every cybersecurity field with my most favourit which is malware development
+- I hate HTML
 ## Languages🗣️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -27,7 +27,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
+## Editors i use🗒️
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Pycharm](https://img.shields.io/badge/pycharm-%2311AB00.svg?style=for-the-badge&logo=pycharm&logoColor=white&color=black)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 <details>
 <summary>Click here for GitHub Stats</summary>
