@@ -40,6 +40,6 @@
 
    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=julecko&show_icons=true&theme=dark">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julecko&show_icons=true&theme=dark"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julecko&show_icons=true&theme=dark&langs_count=10"
 </p>
 </details>
