@@ -1,5 +1,5 @@
 ## Wellcome to my Github <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-- 🔭 I’m currently working on my own website and cybersecurity tools
+- 🔭 I’m currently working on random stuff
 - 🌱 I’m currently learning cybersecurity
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about anything
