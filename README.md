@@ -1,13 +1,12 @@
 ## Wellcome to my Github <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 - 🔭 I’m currently working on random stuff
 - 🌱 I’m currently learning cybersecurity
-- 👯 I’m looking to collaborate on open-source projects
+- 👯 I’m looking to collaborate on something bigger
 - 💬 Ask me about anything
 - 📫 How to reach me: julecko@dilino.sk
-- ⚡ Fun fact: I enjoy C++ (pain)
+- ⚡ Fun fact: I enjoy C/C++ (pain)
 ## About me👨‍💻
 - I am self taught programmer from Slovakia
-- I can code in almoust any language which is required for projects
 - I code programs in many different fields, like Backend, Frontend, Data Analysis, WebScrapers and mostly cybersecurity
 - I hate HTML
 ## Languages🗣️
@@ -48,6 +47,6 @@
 
    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=julecko&show_icons=true&theme=dark">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julecko&show_icons=true&theme=dark&langs_count=10">
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julecko&show_icons=true&theme=dark&langs_count=5">
 </p>
 </details>
