@@ -44,9 +44,6 @@
 <details>
 <summary>Click here for GitHub Stats</summary>
 <p align="left">
-
-   <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=julecko&show_icons=true&theme=dark">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julecko&show_icons=true&theme=dark&langs_count=5">
+    <img alt = "Top Language" src="https://github-stats.dilino.sk/languages?user=julecko">
 </p>
 </details>
