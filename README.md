@@ -44,6 +44,7 @@
 <details>
 <summary>Click here for GitHub Stats</summary>
 <p align="left">
+    <br>
     <img alt = "Top Language" src="https://github-stats.dilino.sk/languages?user=julecko">
 </p>
 </details>
