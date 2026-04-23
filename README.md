@@ -42,9 +42,16 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 <details>
-<summary>Click here for GitHub Stats</summary>
-<p align="left">
+  <summary>Click here for GitHub Stats</summary>
+  <div>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=julecko&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
+      width="400"
+    />
     <br>
-    <img alt = "Top Language" src="https://github-stats.dilino.sk/languages?user=julecko">
-</p>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=julecko&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
+      width="400"
+    />
+  </div>
 </details>
